@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 350px;
+    height: 400px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.container{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#joke-element{
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    background-color: #fff;
+    border-radius: 6px;
+    border: 2px solid lightblue;
+    padding: 10px;
+}
+
+
+#emoji{
+    
+    margin-top: 20px;
+    font-size: 40px;
+    text-align: center;
+   
+}
